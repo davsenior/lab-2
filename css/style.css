@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+#toyCarContainer {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #ffee00;
+    margin-top: 0;
+}
+
+p {
+    margin: 0 0 10px;
+}
+
+.carDetails {
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+}
+
+.carDetails p {
+    margin: 0;
+}
